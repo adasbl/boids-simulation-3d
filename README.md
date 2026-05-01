@@ -2,7 +2,7 @@
 
 Three-dimensional implementation of the Boids flocking algorithm. It simulates the collective behavior of entities using simple local rules, rendered in a 3D environment using React and Three.js.
 
-Live Demo: [https://urmumfat.github.io/boids-simulation-3d/](https://urmumfat.github.io/boids-simulation-3d/)
+Live Demo: [https://adasbl.github.io/boids-simulation-3d/](https://adasbl.github.io/boids-simulation-3d/)
 
 ## Features
 
